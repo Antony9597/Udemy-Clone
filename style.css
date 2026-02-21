@@ -241,7 +241,7 @@ display: none;
         display: block;
     }
     .sale-image__offer{
-        
+        width: 30%;
         top: 1%;
     }
 }
